@@ -1,0 +1,36 @@
+.img{
+    height: 80px;
+    width: 100px;
+    border-radius: 100px;
+}
+.parent-div{
+    background-color: rgb(225, 248, 240);
+    height: 100vh;
+}
+.bdr-1{
+    border-top-style: solid;
+    border-top-color:rgb(2, 161, 2);
+    border-top-width:10px ;
+    border-radius: 20px;
+}
+.bdr-2{
+    border-top-style: solid;
+    border-top-color:rgb(78, 191, 236);
+    border-top-width: 10px;
+    border-radius: 20px;
+}
+.bdr-3{
+    border-top-style: solid;
+    border-top-color: red;
+    border-top-width: 10px;
+    border-radius: 20px;
+}
+.bdr-4{
+    border-top-style: solid;
+    border-top-color: rgb(218, 60, 218);
+    border-top-width: 10px;
+    border-radius: 20px;
+}
+.child{
+    border-radius: 20px;
+}

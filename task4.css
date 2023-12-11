@@ -1,0 +1,23 @@
+.taskfourbg{
+    background-image:url(https://images.pexels.com/photos/3801464/pexels-photo-3801464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.likeButton{
+    width:85px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: goldenrod;
+}
+.cmtButton{
+    width: 140px;
+    height: 35px;
+    border-radius: 10px;
+}
+.shrButton{
+    width: 140px;
+    height: 35px;
+    border-radius: 10px;
+}

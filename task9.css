@@ -1,0 +1,11 @@
+.mainDiv1{
+    height: 100vh;
+    background-color: khaki;
+}
+.button{
+    outline: none;
+    border: none;
+}
+h1>span{
+    color: orange;
+}
